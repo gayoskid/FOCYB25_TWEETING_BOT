@@ -1,0 +1,12 @@
+Title: Blog Post Twitter Bot
+
+Description: This Python script is a Twitter bot that scrapes blog post content from a website and posts it on Twitter at regular intervals. The bot uses Tweepy library for Twitter API interaction and BeautifulSoup library for web scraping.
+
+Setup Instructions:
+
+Clone the repository or download the script.
+Install the required libraries by running pip install tweepy beautifulsoup4 requests.
+Open the script in a text editor.
+Replace the API keys and tokens with your own Twitter API credentials.
+Save the script.
+Run the script using python filename.py.
